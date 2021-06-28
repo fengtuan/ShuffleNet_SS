@@ -1,1 +1,1 @@
-# ShuffleNet_SS
+run ./run_evaluate.sh
