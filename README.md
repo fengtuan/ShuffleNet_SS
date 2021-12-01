@@ -1,7 +1,7 @@
 
 
-![Image text](https://github.com/fengtuan/ShuffleNet_SS/blob/86107141f9df6776dc9dce9155f424fe4f6a68e8/ChannelShuffle.pdf)
-[ChannelShuffle.pdf](https://github.com/fengtuan/ShuffleNet_SS/blob/86107141f9df6776dc9dce9155f424fe4f6a68e8/ChannelShuffle.pdf)
+![Image text](https://github.com/fengtuan/ShuffleNet_SS/blob/a480ac0410e9fca516c2b055c36b705814d25136/ChannelShuffle.tif)
+
 
 
 please run ./run_evaluate.sh
