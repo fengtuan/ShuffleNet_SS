@@ -1,5 +1,5 @@
 
 
-![image](https://github.com/fengtuan/ShuffleNet_SS/blob/bf66813cd173864398a5335c8d3ac5e405355f88/Channel shuffle with two groups.pdf)
+![image](https://github.com/fengtuan/ShuffleNet_SS/blob/17515f77cbf7ad4eef06e8b5d87924c34113f7ff/ChannelShuffle.pdf)
 
 please run ./run_evaluate.sh
